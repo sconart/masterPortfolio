@@ -26,26 +26,26 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1cIZk5lR1EDSV1hRKAMVJjSZqok-HswZs/view?usp=sharing",
-  portfolio_repository: "https://github.com/sconart/masterPortfolio",
-  githubProfile: "https://github.com/sconart",
+  portfolio_repository: "https://github.com/datttrian/masterPortfolio",
+  githubProfile: "https://github.com/datttrian",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/sconart",
+    link: "https://github.com/datttrian",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/sconart/",
+    link: "https://www.linkedin.com/in/datttrian/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",
-    link: "mailto:sconart@gmail.com",
+    link: "mailto:datttrian@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
