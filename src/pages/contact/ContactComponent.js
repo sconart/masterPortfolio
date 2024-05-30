@@ -92,9 +92,9 @@ class Contact extends Component {
 											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <AddressImg theme={theme} />
+                {/* <AddressImg theme={theme} /> */}
               </div>
-              <div className="address-heading-text-div">
+              {/* <div className="address-heading-text-div">
                 <h1
                   className="address-heading-text"
                   style={{ color: theme.text }}
@@ -127,7 +127,7 @@ class Contact extends Component {
                     theme={theme}
                   />
                 </div>
-              </div>
+              </div> */}
             </div>
           </Fade>
         </div>
